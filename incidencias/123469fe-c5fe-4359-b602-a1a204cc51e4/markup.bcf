@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Markup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <File>
+      <Filename>C:\Users\Fran-PC\Documents\GradoInformatica\TFG\ProyectoFinal\tfg-bim\doc\Example\Estructura.ifc</Filename>
+      <Date>2017-07-18T17:57:29.1793446+01:00</Date>
+    </File>
+  </Header>
+  <Topic Guid="123469fe-c5fe-4359-b602-a1a204cc51e4">
+    <Title>Incidencia en la ventana</Title>
+    <CreationAuthor>franjpr</CreationAuthor>
+    <AssignedTo>alguien@delproyecto</AssignedTo>
+    <Description>Descripcion de la incidencia</Description>
+  </Topic>
+  <Comment Guid="7572015f-f6f7-44b6-ad09-7643a5654ec6">
+    <VerbalStatus />
+    <Status>Abierto</Status>
+    <Date>2017-07-18T17:59:51.41069+01:00</Date>
+    <Author>Francisco Palacios</Author>
+    <Comment>Mensaje 1</Comment>
+    <Topic Guid="123469fe-c5fe-4359-b602-a1a204cc51e4" />
+    <Viewpoint Guid="d78031b0-3c5e-4871-b978-bbd2972f1436" />
+  </Comment>
+  <Viewpoints Guid="d78031b0-3c5e-4871-b978-bbd2972f1436">
+    <Viewpoint>viewpoint.bcfv</Viewpoint>
+    <Snapshot>snapshot.png</Snapshot>
+  </Viewpoints>
+</Markup>
