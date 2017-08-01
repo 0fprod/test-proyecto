@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ProjectExtension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Project ProjectId="228d1e4f-d37b-4607-9225-647ee1d0f4b7">
-    <Name>New BCF Report</Name>
+  <Project ProjectId="b6ae1c80-fc53-4c6b-8ce6-9ee8758eba2c">
+    <Name>report</Name>
   </Project>
   <ExtensionSchema />
 </ProjectExtension>

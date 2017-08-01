@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Markup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <File>
+      <Date>2017-08-01T13:24:47.475999+01:00</Date>
+    </File>
+  </Header>
+  <Topic Guid="dc875fab-9170-4b32-aab1-30c7698631ff">
+    <Title>Incidencia sin imagen</Title>
+    <CreationAuthor>franjpr</CreationAuthor>
+    <Description>sin descripcion</Description>
+  </Topic>
+</Markup>

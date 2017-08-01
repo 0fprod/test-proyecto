@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Markup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <File>
+      <Filename>C:\Users\Fran-PC\Documents\GradoInformatica\TFG\ProyectoFinal\tfg-bim\doc\Example\Estructura.ifc</Filename>
+      <Date>2017-08-01T13:26:06.354857+01:00</Date>
+    </File>
+  </Header>
+  <Topic Guid="deed53ef-158b-4725-bb37-f64fcf676abb">
+    <Title>Vista completa</Title>
+    <CreationAuthor>franjpr</CreationAuthor>
+    <AssignedTo>usuario1,usuario2</AssignedTo>
+  </Topic>
+  <Viewpoints Guid="4b6e6f75-bfb3-472e-9bfa-9962bbe2bde1">
+    <Viewpoint>viewpoint.bcfv</Viewpoint>
+    <Snapshot>snapshot.png</Snapshot>
+  </Viewpoints>
+</Markup>

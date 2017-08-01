@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<VisualizationInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Components />
+  <PerspectiveCamera>
+    <CameraViewPoint>
+      <X>4.7023684366410761</X>
+      <Y>-32.974911154023445</Y>
+      <Z>11.589983854811038</Z>
+    </CameraViewPoint>
+    <CameraDirection>
+      <X>-0.9550721366492132</X>
+      <Y>13.65816787730558</Y>
+      <Z>-3.7910057522385827</Z>
+    </CameraDirection>
+    <CameraUpVector>
+      <X>-0.004258530845180214</X>
+      <Y>0.060899828360838806</Y>
+      <Z>0.99813479842186825</Z>
+    </CameraUpVector>
+    <FieldOfView>61</FieldOfView>
+  </PerspectiveCamera>
+</VisualizationInfo>
